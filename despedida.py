@@ -1,0 +1,4 @@
+'''
+Decimos adiós
+'''
+print("Adiós !")
